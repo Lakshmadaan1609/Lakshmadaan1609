@@ -1,4 +1,4 @@
-# 🖤 Laksh Madaan — Building the Future, One Commit at a Time
+# 🖤🖤🖤 Laksh Madaan — Building the Future, One Commit at a Time  🖤🖤🖤
 
 > Software Engineer by day.  
 > AI Engineer in the making.  
