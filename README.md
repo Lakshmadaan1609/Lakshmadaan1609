@@ -1,87 +1,33 @@
-<!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Laksh%20Madaan&fontSize=52&fontColor=00F7FF&color=0:020024,50:090979,100:00d4ff&animation=fadeIn"/>
+<!-- ===================== HERO ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=PIYUSH%20DHANWAL&fontSize=52&fontColor=00F7FF&color=0:020024,50:090979,100:8A2BE2&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Engineer+in+Progress;Building+Systems+That+Feel+Alive;Clean+Code.+Loud+Impact." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+⚡;AI%2FML+%7C+Backend+%7C+Data+Things;I+turn+coffee+into+scalable+systems+☕;Code+that+actually+ships+🚀" />
 </p>
 
 ---
 
-## 🖤 About Me
+## 👋 Who am I (in short)?
 
-I don’t build demo projects.  
-I build **systems that ship, scale, and survive production**.
+- 🧠 Engineer who *likes data more than drama*
+- 🤖 I train models *and* APIs (no favoritism)
+- ⚙️ Backend guy who hates slow queries more than bugs
+- 📊 If it can be optimized, *I will optimize it*
 
-- 🔭 Software Engineer
-- 🧠 Learning **AI Engineering & LLM Systems**
-- 🤝 Open to **Applied AI / GenAI collaborations**
-- ⚡ Architecture over hype
-
-> *If it doesn’t scale, it doesn’t excite me.*
+> **“Works on my machine” is not a deployment strategy.**
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Stuff I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,js,perl,html,css&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,graphql,tailwind&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,redis,mongodb,postgres,mysql&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,java,sql,nodejs,nestjs,postgres,mysql,tensorflow,sklearn&theme=dark" />
 </p>
 
 ---
 
-## 🧠 AI Focus
+## 🚀 Things I’ve Built (flex but chill)
 
-- Machine Learning with **TensorFlow / Keras**
-- Data processing using **Pandas & NumPy**
-- Model building with **Scikit-Learn**
-- AI features integrated into real products
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmadaan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Lakshmadaan&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmadaan&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://github.com/Lakshmadaan/Lakshmadaan/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Lakshmadaan&icon=5&color=12" />
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00d4ff,50:090979,100:020024"/>
+🩺 **AI Health Assistant**  
+→ Talks like a human, thinks like a model, answers like a doctor  
+→ RAG-powered, offline-fr
