@@ -53,12 +53,11 @@ I build **systems that ship, scale, and survive production**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmadaan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Lakshmadaan&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmadaan1609&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmadaan&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmadaan1609&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
